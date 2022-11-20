@@ -6,4 +6,5 @@ The coronavirus took the entire world by surprise, changing everyone's daily rou
 I've been given a database of one of the services competing in this market. It contains data on books, publishers, authors, and customer ratings and reviews of books. This information will be used to generate a value proposition for a new product.
 
 Data diagram:
+
 ![Data_diagram.png](Data_diagram.png)
