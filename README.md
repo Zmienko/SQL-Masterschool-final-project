@@ -8,3 +8,9 @@ I've been given a database of one of the services competing in this market. It c
 Data diagram:
 
 ![Data_diagram.png](Data_diagram.png)
+
+### 2.Files in the repository
+1. `SQL_final_project.ipynb` the main Jupyter Notebook file with 5 SQL querries.
+2. `Data_diagram.png` is ER diagram of star shema database.
+3. `CA.pem` need to work with the data base.
+4. `README.md` provides review on the project.
